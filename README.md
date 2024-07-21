@@ -7,7 +7,7 @@
 프로젝트 기간 2023.12 ~ 2024.01
 
 ## 💬제안 배경
-![1](https://github.com/whtndls/real-time-audience-reaction--analysis-frontend/blob/main/readMeImg/1.png)
+![1](https://github.com/whtndls/real-time-audience-reaction--analysis-frontend/blob/main/ReadMeImg/1.png)
 ![2](https://github.com/whtndls/real-time-audience-reaction--analysis-frontend/blob/main/readMeImg/2.png)
 ![3](https://github.com/whtndls/real-time-audience-reaction--analysis-frontend/blob/main/readMeImg/3.png)
 ![4](https://github.com/whtndls/real-time-audience-reaction--analysis-frontend/blob/main/readMeImg/4.png)
